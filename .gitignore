@@ -4,3 +4,6 @@
 /com-my-app-simple/.idea
 /com-my-app-simple/target
 /com-my-app-simple/com.my.app.simple.iml
+/domain-model/target
+/domain-model/.idea
+/domain-model/domain-model.iml
