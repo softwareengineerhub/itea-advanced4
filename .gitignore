@@ -10,3 +10,6 @@
 /Konstantin/appUsers/target
 /Konstantin/appUsers/.idea
 /Konstantin/my-jpa/target
+/my-concurrency-app/target
+/my-concurrency-app/.idea
+/my-concurrency-app/my-concurrency-app.iml
