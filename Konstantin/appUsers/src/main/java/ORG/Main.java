@@ -1,3 +1,5 @@
+package ORG;
+
 import entity.User;
 
 import org.hibernate.Session;
@@ -14,6 +16,7 @@ public class Main {
 
         User user = new User();
         user.setNamik("Borya");
+        user.setId(3);
 
         session.save(user);
         session.getTransaction().commit();

@@ -3,13 +3,11 @@ package entity;
 import javax.persistence.*;
 
 @Entity
-@Table (name="USER", schema="USERS")
 public class User {
+    @Id
     private int id;
     private String namik;
 
-    @Id
-    @Column(name = "id", nullable = false)
     public int getId() {
         return id;
     }
@@ -18,8 +16,6 @@ public class User {
         this.id = id;
     }
 
-    @Basic
-    @Column(name = "namik", nullable = false, length = 45)
     public String getNamik() {
         return namik;
     }
