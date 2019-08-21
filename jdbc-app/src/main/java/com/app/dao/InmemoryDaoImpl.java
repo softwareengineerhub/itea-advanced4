@@ -4,6 +4,7 @@ import com.app.model.Person;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class InmemoryDaoImpl implements Dao {
 
@@ -75,5 +76,15 @@ public class InmemoryDaoImpl implements Dao {
                 persons.remove(p);
             }
         }
+    }
+
+    @Override
+    public void multipleSave(List<Person> persons) {
+
+    }
+
+    @Override
+    public List<Map<String, Object>> readAllByMetaData() {
+        return null;
     }
 }

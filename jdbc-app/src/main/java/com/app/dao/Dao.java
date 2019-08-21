@@ -3,6 +3,7 @@ package com.app.dao;
 import com.app.model.Person;
 
 import java.util.List;
+import java.util.Map;
 
 //CRUD
 /*
@@ -30,5 +31,9 @@ public interface Dao {
     public void deleteAllByAge(int age);
 
     public void deleteAllByAgeAndName(int age, String name);
+
+    public void multipleSave(List<Person> persons);
+
+    public List<Map<String, Object>> readAllByMetaData();
 
 }
