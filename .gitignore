@@ -13,3 +13,6 @@
 /my-concurrency-app/target
 /my-concurrency-app/.idea
 /my-concurrency-app/my-concurrency-app.iml
+/jdbc-app/target
+/jdbc-app/jdbc-app.iml
+/jdbc-app/.idea
