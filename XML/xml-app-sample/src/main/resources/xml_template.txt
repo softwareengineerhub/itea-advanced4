@@ -1,0 +1,4 @@
+<person>
+        <name>%s</name>
+        <age>%s</age>
+    </person>
