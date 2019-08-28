@@ -33,3 +33,6 @@
 /JAX-WS/remote-calculator-client/target
 /JAX-WS/remote-calculator-client/remote-calculator-client.iml
 /JAX-WS/remote-calculator-client/.idea
+/TCP-IP/my-tcp-server/target
+/TCP-IP/my-tcp-server/.idea
+/TCP-IP/my-tcp-server/my-tcp-server.iml
