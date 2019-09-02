@@ -1,0 +1,7 @@
+http://shop.oreilly.com/product/0636920006044.do - JavaFX video lectures
+https://www.youtube.com/watch?v=eohuPOXHRQQ - mobile presentations
+https://gluonhq.com/products/mobile/ - gluon mobile site
+
+https://www.jpro.one/ - javafx in browser
+
+https://www.youtube.com/watch?v=30oUFgOW7r0 - JPRO presentation
