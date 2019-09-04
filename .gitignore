@@ -45,3 +45,6 @@
 /my-jpro/RUNNING_PID
 /my-jpro/logs
 /my-jpro/.idea
+/generics-app/.idea
+/generics-app/target
+/generics-app/generics-app.iml
