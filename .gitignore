@@ -59,3 +59,9 @@
 /SPRING/my-spring-app/target
 /SPRING/my-spring-app/.idea
 /SPRING/my-spring-app/my-spring-app.iml
+/SPRING/my-spring-aspects/target
+/SPRING/my-spring-aspects/my-spring-aspects.iml
+/SPRING/my-spring-aspects/.idea
+/SPRING/my-spring-jdbc/target
+/SPRING/my-spring-jdbc/.idea
+/SPRING/my-spring-jdbc/my-spring-jdbc.iml
